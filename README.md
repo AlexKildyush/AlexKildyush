@@ -8,5 +8,3 @@ I am working on a commercial project and additionally writing my own projects.
 ## Skills (except programming)
 - I well-know mathematics and physics. At school, I participated in many regional and All-Russian Olympiads in these two subjects.
 - I tried myself in graphic design a year ago. There is own 3d model of a military aircraft in `Blender` 
-## Contact me
-You can contact me via [Telegram](https://t.me/AlexeyKildyushev)
