@@ -1,10 +1,43 @@
 # 👋Hello everyone! I am Alexey Kildyushev
-## A few facts about me 
-- I have about 2 years of development experience in C#, including more than a year of commercial development📚
-- In my free time from programming, I do sports, I am also the head of the TED practice club, I also have a channel on Habr, where I try to write articles for the Russian-speaking audience on topics that, in my opinion, are few on the Internet.
-- My first programming language was Python. I was 15 years old at the time. Then I switched to C++, almost all the algorithms were studied by me in this language
-## Now
-I am working on a commercial project and additionally writing my own projects.
-## Skills (except programming)
-- I well-know mathematics and physics. At school, I participated in many regional and All-Russian Olympiads in these two subjects.
-- I tried myself in graphic design a year ago. There is own 3d model of a military aircraft in `Blender` 
+## 💻 Backend .NET Developer 
+Backend developer focused on building reliable and scalable backend services using the .NET ecosystem. I work primarily with C#, ASP.NET Core, and distributed systems, developing APIs and services that operate in high-load environments. I have experience working with both legacy systems and new projects built from scratch, participating in architectural decisions, improving code quality, and implementing new functionality.
+
+In my work I develop backend services, implement new features, fix production issues, and refactor existing code. I actively participate in code reviews, sprint planning, and technical discussions within the team. I have experience designing and developing microservice architectures, integrating services through REST, gRPC, messaging systems, and working with different types of databases depending on the task.
+
+I also work with performance optimization and system reliability, using tools for monitoring and observability. In addition to developing business logic, I contribute to improving internal libraries, development practices, and testing approaches within projects.
+
+## 🛠 Tech Stack
+Languages
+C#, SQL, Python, C++, JavaScript (basic)
+
+Backend
+.NET, ASP.NET Core, Entity Framework, REST API, gRPC, GraphQL (HotChocolate)
+
+Databases
+PostgreSQL, Microsoft SQL Server, Redis, MongoDB, ClickHouse, Neo4j
+
+Messaging & Streaming
+Apache Kafka, RabbitMQ
+
+DevOps & Infrastructure
+Docker, Git, GitHub, GitLab CI/CD, TeamCity
+
+Monitoring & Observability
+Prometheus, Grafana, InfluxDB
+
+## 📚 Continuous Learning
+I regularly study materials on software architecture, distributed systems, and system design. I also practice algorithmic thinking by solving problems on LeetCode.
+
+Books that strongly influenced my approach to development:
+
+Head First Design Patterns — Eric Freeman
+
+Designing Data-Intensive Applications — Martin Kleppmann
+
+## 🧠 Background
+During school I actively participated in mathematics and physics olympiads, becoming a regional prize winner.
+I also experimented with 3D modeling in Blender, creating my own aircraft model.
+
+
+Architecture & Practices
+Microservices, Distributed Systems, SOLID, High-load systems
